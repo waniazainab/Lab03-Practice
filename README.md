@@ -1,1 +1,1 @@
-# Lab03 - local update
+# Lab03 - local and remote resolved
